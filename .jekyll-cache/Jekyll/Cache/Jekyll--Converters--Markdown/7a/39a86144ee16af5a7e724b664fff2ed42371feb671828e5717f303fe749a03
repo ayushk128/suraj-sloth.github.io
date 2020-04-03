@@ -1,0 +1,45 @@
+I"<p><strong>Hello I am Suraj (IT 2k18) the Lead Developer(and Designer) of this blog.</strong></p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">var</span> <span class="nx">s</span><span class="o">=</span> <span class="dl">"</span><span class="s2">Hello to this dynamic world from HnCC</span><span class="dl">"</span><span class="p">;</span>
+<span class="nx">alert</span><span class="p">(</span><span class="nx">s</span><span class="p">);</span>
+</code></pre></div></div>
+<p><em>A “Hello, World!” program generally is very simple in most programming languages, and is often used to illustrate the basic syntax of a programming language. It is often the first program written by people learning to code.</em></p>
+
+<p>In this post I would like to describe our journey about developing this site.</p>
+
+<h1 id="the-idea">The idea</h1>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>var blog = new Idea();
+</code></pre></div></div>
+
+<p>We thought of introducing our internal working, management and coordination of our project experiences, tutorials, organizing experiences through a medium.
+We got inspired by developer clubs of other colleges. Sourav Sir, Raj Sir &amp; Neeraj Sir suggested and agreed upon working on this idea.</p>
+
+<p>In our Developers’ Meet (<strong><em>Yes, that’s what we call our Club Meetings</em></strong>) on December we (the <strong>Web Development Team</strong>) discussed upon design (with the <strong>Design team</strong>.) and the tech stacks we will be using.</p>
+
+<h1 id="development-starts">Development Starts</h1>
+
+<blockquote>
+  <p><strong>Less <del>talk</del> more <em>CODE</em>.</strong></p>
+</blockquote>
+
+<p>The possible frameworks we thought were, Wordpress, Jekyll &amp; Hugo. Sorting this we thought to learn something new and a content focused platform and more about the code.</p>
+
+<p>Jekyll (written in Ruby) uses markdown (plaintext form) to generate blog pages reducing the pain of writing code again and again or setting up a bulky CMS like wordpress.</p>
+
+<p>We tried to explore the jekyll framework due to its vast amount of available themes. We started hacking(read explore) about Jekyll. It uses liquid templating to provide customization. I tweaked its templating HTML &amp; CSS part to give it a new look (Beautiful Jekyll theme).</p>
+
+<p>Our design team provided us layouts and graphics to give it a ecstatic look.</p>
+
+<p>A major hurdle faced was using CI/CD over GitLab due to different package versions in remote system and local pushed code.</p>
+
+<p><img src="https://qph.fs.quoracdn.net/main-qimg-e6254d8b9a4a91ea16070fa278f8ee5a" alt="Meme" class="center-block" /></p>
+
+<h1 id="deployment-and-release">Deployment and Release</h1>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nx">hncc</span><span class="p">.</span><span class="nx">add</span><span class="p">(</span><span class="nx">blog</span><span class="p">);</span>
+</code></pre></div></div>
+<p>Finally it is deployed over GitLab pages. It gives me immense pleasure and excitement for this blog.</p>
+
+<p>Further We have added Google’s feedburner newsletter subscription.
+Hope we release great content for this community.</p>
+:ET
