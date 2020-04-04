@@ -3,6 +3,11 @@
   <div class="menu">
     <a href="/" style="text-decoration: none;"><h1 align="center">suraj_sloth@root:~$ ./Suraj Kumar Mahto</h1></a>
     <ul>
+      <li class="social"> <a href="mailto:suraj.mahto49@protonmail.com"><i class="far fa-envelope-open"></i></a></li>
+      <li class="social"> <a href="https://www.linkedin.com/in/suraj-sloth/" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
+      <li class="social"> <a href="https://www.github.com/suraj-sloth" target="_blank"><i class="fab fa-github"></i></a></li>
+      <li class="social"> <a href="https://www.reddit.com/user/suraj_sloth" target="_blank"><i class="fab fa-reddit"></i></a></li>
+      
       {%- for path in page_paths -%}
         {%- assign my_page = site.pages | where: "path", path | first -%}
         {%- if my_page.title -%}
@@ -15,3 +20,4 @@
     </ul>
   </div>
 </header>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/js/all.min.js"></script>

@@ -7,3 +7,6 @@ permalink: /
 <center>
 <img src="https://www.publicdomainpictures.net/pictures/310000/nahled/sloth-drawing-1567174073bv6.jpg" height="200em" width="auto">
 </center>
+
+>All the intellectuals that come to mind write, not because they have to or get paid to, but simply for its own sake. What good is thinking if you can’t share?
+ --**Aaron Swartz**
