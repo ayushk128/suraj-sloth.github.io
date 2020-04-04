@@ -16,7 +16,7 @@ This is
 </center>
 
 ## What all stuffs he does ?
-Suraj is currentlt pursuing his majors in Information Technology (Sophomore) from *BIT Sindri, Dhnabad*. He plays Basketball, Badminton. Oh Yes, he can **Beatbox** also, fueling up your beats.
+Suraj is currently pursuing his majors in Information Technology (Sophomore) from *BIT Sindri, Dhanbad*. He plays Basketball, Badminton. Oh Yes, he can **Beatbox** also. He tries on cooking sometimes.
 <br>
 He likes **exploring** and **hacking** into Computer Stuffs.
 I bet you may find some sloths wandering around Computers.
