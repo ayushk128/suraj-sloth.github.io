@@ -15,12 +15,20 @@ This is
 
 </center>
 
-## What all stuffs he does ?
+## What all stuff he does ?
 Suraj is currently pursuing his majors in Information Technology (Sophomore) from *BIT Sindri, Dhanbad*. He plays Basketball, Badminton. Oh Yes, he can **Beatbox** also. He tries on cooking sometimes.
 <br>
 He likes **exploring** and **hacking** into Computer Stuffs.
 I bet you may find some sloths wandering around Computers.
 He likes designing and developing frontend matters.
+
+## His Linux Configuration?
+Uh, I see he is too lazy to rice his linux setup. For now he is stable in:
+<br>
++ Kali Light
++ i3 Window Manager
++ polybar + i3blocks (eh? what! two bars)
++ Sweet Dark Theme 
 
 ## Where can I follow him ?
 You can follow him on:
